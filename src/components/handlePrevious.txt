@@ -1,0 +1,26 @@
+// handlePreviousButton = async () => {
+
+  //   this.setState({
+  //     page : this.state.page - 1,
+  //   })
+
+  //   this.updateNews();
+
+
+    // let urlPreviousPage = `https://newsapi.org/v2/top-headlines?category=${this.props.category}&country=${this.props.country}&apiKey=009ef5ab69844ba9bb5860f3815e4631&page=${this.state.page-1}&pageSize=${this.props.pageSize}`;
+
+    // this.setState({
+    //   loading: true
+    // })
+
+    // let dataPreviousPage = await fetch(urlPreviousPage);
+    // let parsedDataPreviousPage = await dataPreviousPage.json();
+
+    // this.setState({
+    //   articles: parsedDataPreviousPage.articles,
+    //   page : this.state.page - 1,
+    //   loading : false
+    //   })
+    // console.log(parsedData);
+    // console.log("Previous Clicked.");
+  // }

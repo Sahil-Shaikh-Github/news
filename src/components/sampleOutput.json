@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "les-echos", "name": "Les Echos" },
+      "author": "Lionel Steinmann",
+      "title": "Automobile : les secrets de l'implacable machine de guerre chinoise",
+      "description": "BYD, MG et consorts s'appuient sur des principes de production qui sont devenus la nouvelle référence dans l'automobile. De quoi capter l'essentiel de la croissance mondiale dans les années à venir.",
+      "url": "https://www.lesechos.fr/industrie-services/automobile/automobile-les-secrets-de-limplacable-machine-de-guerre-chinoise-2104651",
+      "urlToImage": "https://media.lesechos.com/api/v1/images/view/667ecad51b54c8737638cf5d/1280x720/01102323714566-web-tete.jpg",
+      "publishedAt": "2024-06-28T14:38:20Z",
+      "content": "Une mécanique bien rodée. Les constructeurs automobiles chinois ont mis au point un modèle redoutablement efficace, qui s'est imposé comme la nouvelle référence du secteur en lieu et place de Tesla, … [+3925 chars]"
+    },
+    {
+      "source": { "id": "les-echos", "name": "Les Echos" },
+      "author": "Frédéric Schaeffer",
+      "title": "Qui est Geely, l'ami chinois de Renault qui grimpe dans l'automobile mondiale",
+      "description": "En quelques années, le groupe fondé par le discret Li Shufu est devenu l'un des symboles de l'offensive de la Chine dans l'automobile mondiale, multipliant les partenariats avec des constructeurs européens.",
+      "url": "https://www.lesechos.fr/industrie-services/automobile/qui-est-geely-lami-chinois-de-renault-qui-grimpe-dans-lautomobile-mondiale-1876827",
+      "urlToImage": "https://media.lesechos.com/api/v1/images/view/636a34a64e35ce05666b2c90/1280x720/0702732930769-web-tete.jpg",
+      "publishedAt": "2022-11-08T10:50:21Z",
+      "content": "Volvo, Lotus, Daimler et maintenant Renault ! Le chinois Geely poursuit sa stratégie de rapprochement avec de grands noms européens de l'automobile. Le constructeur privé situé à Hangzhou (à l'est de… [+686 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": null,
+      "title": "The English - Official Teaser Trailer - IGN",
+      "description": "\u003Csection class=\"video-page\"\u003E\u003Cp\u003ECheck out the teaser trailer for The English, an upcoming Western drama series starring Emily Blunt and Chaske Spencer.\u003C/p\u003E\u003Csection data-transform=\"mobile-ad-break\"\u003E\u003C/section\u003E\u003Cp\u003E\u003C/p\u003E\u003Cp\u003EAn aristocratic Englishwoman, Lady Cornelia…",
+      "url": "https://www.ign.com/videos/the-english-official-teaser-trailer",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/01/theenglishofficialteasertrailer-ign-blogroll-1662054863253.jpg?width=1280",
+      "publishedAt": "2022-09-01T18:07:45.9970222Z",
+      "content": "Check out the teaser trailer for The English, an upcoming Western drama series starring Emily Blunt and Chaske Spencer.\r\nAn aristocratic Englishwoman, Lady Cornelia Locke (Blunt), and a Pawnee ex-cav… [+1134 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": null,
+      "title": "Trinity Trigger - Announcement Trailer - IGN",
+      "description": "\u003Csection class=\"video-page\"\u003E\u003Csection data-transform=\"mobile-ad-break\"\u003E\u003C/section\u003E\u003Cp\u003EWatch the announcement trailer for Trinity Trigger to meet Cyan, Elise, Zantis. and the Triggers, who are companions who can transform into weapons. Get a peek at gameplay, the…",
+      "url": "https://www.ign.com/videos/trinity-trigger-announcement-trailer",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/09/01/trinitytriggerannouncementtrailer-ign-blogroll-1662053019546.jpg?width=1280",
+      "publishedAt": "2022-09-01T17:37:21.006331Z",
+      "content": "Watch the announcement trailer for Trinity Trigger to meet Cyan, Elise, Zantis. and the Triggers, who are companions who can transform into weapons. Get a peek at gameplay, the world, and more from t… [+110 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": null,
+      "title": "River City Girls 2: Villains Trailer - IGN",
+      "description": "\u003Csection class=\"video-page\"\u003E\u003Csection data-transform=\"mobile-ad-break\"\u003E\u003C/section\u003E\u003Cp\u003ERenowned developer WayForward and ArcSystemWorks introduce you to the villains of River City Girls 2,  including Sabuko (the &quot;disgraced daughter&quot;), Ken (the &quot;ric…",
+      "url": "https://www.ign.com/videos/river-city-girls-2-villains-trailer",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/08/31/rivercitygirls2villainstrailer-36190303-rivercitygirls2-villainstrailer-blogroll-1661974265062.jpg?width=1280",
+      "publishedAt": "2022-09-01T17:07:27.5493853Z",
+      "content": "Renowned developer WayForward and ArcSystemWorks introduce you to the villains of River City Girls 2, including Sabuko (the \"disgraced daughter\"), Ken (the \"rich boy yakuza\"), and Sabu (the \"criminal… [+236 chars]"
+    },
+    {
+      "source": { "id": "aftenposten", "name": "Aftenposten" },
+      "author": "NTB-Johan Falnes",
+      "title": "Tik Tok installert på flere mobiler i regjeringen",
+      "description": "USA frykter at brukerdata fra Tik Tok kan bli overført til Kina. I Norge har flere i regjeringen lastet ned appen – inkludert statsminister Erna Solberg.",
+      "url": "https://www.aftenposten.no/norge/politikk/i/jdo5Le/Tik-Tok-installert-pa-flere-mobiler-i-regjeringen",
+      "urlToImage": "https://premium.vgc.no/ap/images/a189b15b-8b64-4e2e-a4a5-08ad9fa0315d?fit=crop&q=80&w=1440",
+      "publishedAt": "2020-07-09T05:07:23.894053Z",
+      "content": "smp-stories-top-widget\r\nMed mer enn to milliarder nedlastinger er Tik Tok blitt en av verdens mest populære apper. \r\nMen nå vokser skepsisen. India innførte forbud mot appen i forrige uke. USA vurder… [+3202 chars]"
+    }
+  ]
+}
